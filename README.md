@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+#### ❔ About Me:
+  - My name is Adam and I am currently studying a BSc degree in Computer Science at the University of Southampton
+#### 🛠️ I'm Currently Working On:
+  - [curdle](https://www.github.com/inventor02/curdle)
+  - An upcoming project tbc
+#### 💬 Languages:
+  - C/C++
+  - C#
+  - Java
+  - Go
+  - Python
+  - Javascript
+
 <!--
 **a-caine/a-caine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
