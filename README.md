@@ -8,7 +8,7 @@
   - C/C++
   - C#
   - Java
-  - Go
+<!--  - Go  -->
   - Python
   - Javascript
   - Haskell
