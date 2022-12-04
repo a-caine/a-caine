@@ -4,11 +4,11 @@
   - I am currently studying a BSc degree in Computer Science at the University of Southampton
 #### 🛠️ I'm Currently Working On:
   - [Sudoku](https://www.github.com/a-caine/sudoku)
+  - [AoC 2022](https://github.com/a-caine/AOC-2022)
 #### 💬 Languages:
   - C/C++
   - C#
-  - Java
-<!--  - Go  -->
+  - Java <!--  - Go  -->
   - Python
   - Javascript
   - Haskell
